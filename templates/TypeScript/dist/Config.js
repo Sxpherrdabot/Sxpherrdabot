@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.dbName = exports.owners = exports.prefix = exports.token = void 0;
+exports.token = "your token here";
+exports.prefix = "!";
+exports.owners = [];
+exports.dbName = "TypeScriptBot";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ29uZmlnLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vc3JjL0NvbmZpZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFBYSxRQUFBLEtBQUssR0FBVyxpQkFBaUIsQ0FBQTtBQUNqQyxRQUFBLE1BQU0sR0FBVyxHQUFHLENBQUE7QUFDcEIsUUFBQSxNQUFNLEdBQWEsRUFBRSxDQUFBO0FBQ3JCLFFBQUEsTUFBTSxHQUFXLGVBQWUsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjb25zdCB0b2tlbjogc3RyaW5nID0gXCJ5b3VyIHRva2VuIGhlcmVcIlxuZXhwb3J0IGNvbnN0IHByZWZpeDogc3RyaW5nID0gXCIhXCJcbmV4cG9ydCBjb25zdCBvd25lcnM6IHN0cmluZ1tdID0gW11cbmV4cG9ydCBjb25zdCBkYk5hbWU6IHN0cmluZyA9IFwiVHlwZVNjcmlwdEJvdFwiIl19
